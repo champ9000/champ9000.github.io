@@ -1578,28 +1578,7 @@ input[type="tel"] {
 		margin-top: 5px;
 		margin-left: 0; } }
 @media all and (max-width: 960px) {
-	.btn-mobile-menu {
-		display: block; }
 
-	.panel-main {
-		display: table;
-		position: relative; }
-
-	.panel-cover--collapsed {
-		width: 100%;
-		max-width: none; }
-
-	.panel-main__inner {
-		display: table-cell;
-		padding: 60px 10%; }
-
-	.panel-cover__description {
-		display: block;
-		max-width: 600px;
-		margin: 0 auto; }
-
-	.panel-cover__divider--secondary {
-		display: none; }
 
 	.panel-cover {
 		width: 100%;
@@ -1623,18 +1602,6 @@ input[type="tel"] {
 				display: none;
 				margin: 1em auto; }
 
-	.navigation-wrapper {
-		display: none;
-		position: fixed;
-		top: 42px;
-		right: 0;
-		left: 0;
-		width: 100%;
-		padding: 20px 0;
-		background: rgba(51, 51, 51, 0.98);
-		border-bottom: 1px solid rgba(255, 255, 255, 0.15); }
-		.navigation-wrapper.visible {
-			display: block; }
 
 	.cover-navigation {
 		display: block;
